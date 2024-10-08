@@ -1,8 +1,8 @@
-# Welcome!
+# Welcome to Azure Bicep!
 
-This is the helper repository for the [Master Azure Bicep: Explore Advanced Features and Techniques](https://www.udemy.com/course/master-azure-bicep) course on Udemy. 
+This is the helper repository for the Azure Bicep.
 
-This repository contains the solutions for each lesson.
+This repository contains:
 
 - **Lesson 1:** Introduction to Azure Bicep
 - **Lesson 2:** Setting up the environment
@@ -16,3 +16,5 @@ This repository contains the solutions for each lesson.
 - **Lesson 12:** Real-world Project – deploying a function app with logging
 - **Lesson 13:** Preview features
 - **Lesson 14:** Review and Next Steps
+
+Thank you!
