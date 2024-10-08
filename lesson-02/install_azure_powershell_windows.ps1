@@ -2,7 +2,7 @@
 # install powershell 7 
 winget install --id Microsoft.Powershell --source winget
 
-# set the powerShell execution policy to remote signed or less restrictive 
+# set the powerShell execution policy to remote signed or less restrictive.
 Get-ExecutionPolicy -List
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 

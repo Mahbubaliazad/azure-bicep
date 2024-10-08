@@ -1,4 +1,3 @@
-
 var storageAccountName = 'stbicepcoursedev'
 
 // scope functions
