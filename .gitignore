@@ -1,0 +1,32 @@
+# Bicep build artifacts
+*.json
+
+# Bicep temporary files
+*.bicep.json
+
+# Local configuration files
+*.tfstate
+*.tfstate.backup
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Node modules (if applicable)
+node_modules/
+npm-debug.log
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other IDE files
+.idea/
+*.sublime-workspace
+*.sublime-project
