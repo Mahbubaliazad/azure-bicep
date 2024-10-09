@@ -6,3 +6,5 @@ This repository contains:
 
 - **Lesson 1:** Introduction to Azure Bicep
 
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep
+
